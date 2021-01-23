@@ -61,10 +61,6 @@ social:
 
 Enjo Faes is a motivated and ambitious student, currently fininshed his master of Applied Economic Sciences at the university of Antwerp (with Major: Finance & Minor: Data science). Because of his ambition and attitude to learn a lot more he has considered to follow an extra master: a year at Antwerp Management School: Master in Finance.
 
-He plays football in fifth division (2nd prov) at Groen Rood Katelijne. Beside the amount of time he spend with various football clubs in the past years (Beerschot, Zoersel, KFC Duffel), he also participated every year to the Antwerp Students League (ASL), which is a competition between student clubs.
+He is very interested in risk management, corporate finance and the industry playing field as a whole. He wrote his Bachelor thesis about "Corporate Venturing" & masterthesis in corporate finance about "Entrepreneurship, Financial development and Economic Growth, a multivariate time series analysis for Belgium", which was very broad but interesting econometric analysis.
 
-He is very interested in private equity, asset management (& the finance industry as a whole). He wrote his Bachelor thesis about Corporate Venturing. He has little background in IT, but is quite flexible and open for new challenges. That's why he acquired the Base Programmer certificate at SAS Tervuren, why he chose Data Science as minor for his master at University of Atnwerp (data mining and data engineering) & why he did an internship for the department of Technology Digital & Risk consultants (TDRC) with main focus: assisting on IT Audit projects. Finished his masterthesis in corporate finance about Entrepreneurship, Financial development and Economic Growth, a multivariate time series analysis for Belgium, which was very broad but interesting econometric analysis.
-
-Right now fully developing his skills on R programming every week on Datacamp. Following two tracks at Capitant (IB/PE track and Asset management track) and fully pursuing a great year at AMS.
-
-When he is not behind his books, he likes to meet his friends at the bar for a drink or watch tv-shows. Let’s connect & maybe we find business opportunities or have interesting conversations! 
+Right now fully developing his skills on R programming every week on Datacamp. Following two tracks at Capitant (IB/PE track and Asset management track) and fully pursuing a great year at AMS. 
