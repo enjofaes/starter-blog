@@ -1,15 +1,15 @@
 ---
-title: 'My first blog'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: TBH, it takes some more time to change all the content. But the site is created in under 10 min.  
+title: 'Further use'
+subtitle: 'The skills companies are looking for :rocket:'
+summary:
 authors:
 - admin
 tags:
 - Academic
 categories:
-- Demo
-date: "2021-01-23T00:00:00Z"
-lastmod: "2021-01-23T00:00:00Z"
+- Industry playing field
+date: "2021-01-24T00:00:00Z"
+lastmod: "2021-01-24T00:00:00Z"
 featured: false
 draft: false
 
@@ -28,79 +28,62 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["industry-playing-field"]
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+**The year 2020 will always be in our memory. A positive thing some of us have done is learn a new skill and develop more knowledge. This hunger for learning more will be necessary to make a difference and differentiate yourself from others. Skills like _coding_, _marketing_, and _language_ are important! The world will ever be more data driven. So do not get behind. **
 
 {{% toc %}}
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+-  [**What are the skills**](#Skills)
+-  [**Where can you learn**](#Sources)
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+{{< figure src="https://smallbiztrends.com/wp-content/uploads/2020/07/Most-In-Demand-Skills-850x476.png?ezimgfmt=ng%3Awebp%2Fngcb10%2Frs%3Adevice%2Frscb10-1" title="Working from home is quite standard since 2020. Spending more time at home, the present climate is perfect for learning new skills!" >}}
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+## Skills
 
-**Key features:**
+* World economic forum in their report: Future of Jobs (**October 2020**)
+{{< figure src="https://assets.weforum.org/editor/bU7TaRrs5fZ52kB-xKqbxtBI8X2jt-vymHeWKgguybM.png" title="The Job landscape. Look at number 1: Data Analysts! Also take a look at 2, 3, 9 and 10!" >}}
 
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+* SHL, leader in AI technology for the workforce have listed the ten most in-demand job skills (**June 2020**)
+They discuss the skilss and average salary in the US and the UK. Let's look at the UK because that is a bit closer to bed.
+{{< figure src="https://www.shl.com/wp-content/uploads/verve-search-uk-salary.jpg" title="The Most In-Demand Job Skills You Can Learn From Home in the UK." >}}
 
-## Themes
+## Sources  
+**Coding**
+- Free Code Camp (free)
+More than 40,000 people have taken advantage of this free resource and gone on to land jobs in the tech industry, including at some of the most prestigious tech companies, such as Google and Apple.
+- Codewars (free)
+This free resource for learning to code encourages collaborative learning by featuring tons of challenges for most languages, including JavaScript, SQL, Python, and Java.
+- Udemy (price: dependent on course)
+There are thousands of coding courses available on Udemy, including 582 JavaScript, 460 Python, and 281 Java. Stephen Grinder is one of the most popular tutors to follow on the platform, with more than 550,000 people having signed up to learn from his videos.
 
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+**Marketing**
+- SEO: Moz Beginner’s Guide to SEO (free)
+An excellent general resource for the SEO industry, Moz’s Beginner’s Guide to SEO features eight digestible chapters that are free of charge for somebody to learn the ropes of search engine optimization.
+- Jira: Atlassian University (free)
+The creators of Jira have made their ‘learn from home’ training package free for the month of May. It covers all of the essentials of Jira’s administration and workflow capabilities.
+- Google Analytics: Google Analytics Academy (free)
+Understanding web analytics is an essential skill for anyone wanting to improve the online performance of a business. The Google Analytics Academy’s courses are free and provide teachings on Google Analytics for both beginners and advanced level learners, as well as an introduction to Google’s Data Studio.
 
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
+**Design**
+- Skillshare (free 2-week trial; subscription thereafter)
+This is an excellent general resource and community for learning many of the skills highlighted in this analysis. Skillshare provides thousands of classes for the creative and curious, including many tutorials for designers that wish to learn any of the sought-after Adobe products, such as After Effects, InDesign, and Photoshop.
 
-## Ecosystem
+- Udemy (price: dependent on the course)
+The second time Udemy makes an appearance on the SHL list of recommended resources, due to its immense offering of courses for different skill sets. Their Adobe offering includes 393 tutorials on Photoshop, 281 on Illustrator, and 184 on After Effects.
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+- Domestika (price: starts from $9.90)
+This online resource for creatives brings together professionally designed courses from hundreds of expert instructors. There are 31 courses listed that specialize in various Adobe design products, including Illustrator, InDesign, and Photoshop. The courses are taught in Spanish, but available to view in English subtitles.
 
-## Install
+**Language**
+- Duolingo (price: free)
+There are more than 30 languages available to learn for free on Duolingo’s platform, including the UK and US job markets’ most in-demand languages – Spanish, Chinese, French, and German. It’s available on desktop and mobile, and the gamified approach to learning helps users stay motivated to stick with the program.
 
-You can choose from one of the following four methods to install:
+- Babbel (price: best value is $6.95 per month for 12 months)
+Fourteen languages are available to learn on Babbel’s subscription-based mobile and e-learning app. The courses are crafted by language experts, and voiced by native speakers, in order to set learners on their way to obtaining conversational skills that can be applied to real-life situations.
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+**Bibliography**
+https://www.shl.com/en/blog/the-most-in-demand-job-skills-you-can-learn-in-lockdown/
+https://smallbiztrends.com/2020/07/the-10-most-in-demand-skills-right-now-you-can-learn-from-home.html
+https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7
