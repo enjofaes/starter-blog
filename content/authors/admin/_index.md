@@ -6,7 +6,7 @@ title: Enjo Faes
 superuser: true
 
 # Role/position
-role: Junior consultant position at a fortune 500 company in financial risk management.
+role: Dream job: Junior in financial risk management at a fortune 500 company.
 
 # Organizations/Affiliations
 organizations:
@@ -63,4 +63,4 @@ Enjo Faes is a motivated and ambitious student, currently fininshed his master o
 
 He is very interested in risk management, corporate finance and the industry playing field as a whole. He wrote his Bachelor thesis about "Corporate Venturing" & masterthesis in corporate finance about "Entrepreneurship, Financial development and Economic Growth, a multivariate time series analysis for Belgium", which was very broad but interesting econometric analysis.
 
-Right now fully developing his skills on R programming every week on Datacamp. Following two tracks at Capitant (IB/PE track and Asset management track) and fully pursuing a great year at AMS. 
+Right now fully developing his skills on R programming every week on Datacamp. Following two tracks at Capitant (IB/PE track and Asset management track) and fully pursuing a great year at AMS.
