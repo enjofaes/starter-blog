@@ -1,7 +1,7 @@
 ---
-title: 'Further use'
+title: 'The industry playing field for the next decennia'
 subtitle: 'The skills companies are looking for :rocket:'
-summary:
+summary: The skills companies are looking for :rocket:
 authors:
 - admin
 tags:
