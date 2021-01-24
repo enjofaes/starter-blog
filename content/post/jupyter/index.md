@@ -4,10 +4,12 @@ subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
 - admin
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+tags:
+- Academic
+categories:
+- Demo
+date: "2021-01-24T00:00:00Z"
+lastMod: "2021-01-24T00:00:00Z"
 featured: false
 draft: false
 
@@ -73,7 +75,7 @@ In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academi
 ```
 ---
 title: My post's title
-date: 2019-09-01
+date: 2021-01-24
 
 # Put any other Academic metadata here...
 ---
