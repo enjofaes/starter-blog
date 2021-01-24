@@ -11,7 +11,7 @@ categories:
 date: "2021-01-24T00:00:00Z"
 lastmod: "2021-01-24T00:00:00Z"
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,7 +19,7 @@ draft: true
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**weforum**](https://www.weforum.org/agenda/2020/10/top-10-work-skills-of-tomorrow-how-long-it-takes-to-learn-them/)'
+  caption: 'Image credit: [**wallpapercave**](https://wallpapercave.com/finance-wallpapers)'
   focal_point: ""
   preview_only: false
 
@@ -31,7 +31,7 @@ image:
 projects: ["industry-playing-field"]
 ---
 
-**The year 2020 will always be in our memory. A positive thing some of us have done is learn a new skill and develop more knowledge. This hunger for learning more will be necessary to make a difference and differentiate yourself from others. Skills like _coding_, _marketing_, and _language_ are important! The world will ever be more data driven. So do not get behind.**
+**The year 2020 will always be in our memory. A positive thing some of us have done is learn a new skill and develop more knowledge. This hunger for learning more will be necessary to make a difference and differentiate yourself from others. Skills like _coding_, _marketing_, and _language_ are important! The world will ever be more data driven. So do not get behind. **
 
 {{% toc %}}
 
