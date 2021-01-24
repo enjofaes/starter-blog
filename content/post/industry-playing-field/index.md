@@ -1,7 +1,7 @@
 ---
 title: 'My first blog'
-subtitle: 'Create a beautiful, simple website in under 10 minutes :rocket:'
-summary: 'Create a beautiful, simple website in under 10 minutes :rocket:'
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: TBH, it takes some more time to change all the content. But the site is created in under 10 min.  
 authors:
 - admin
 tags:
