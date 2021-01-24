@@ -13,6 +13,6 @@ subtitle: 'Made using [Wowchemy Website Builder](https://wowchemy.com/), github 
 
 design:
   background:
-    color: '#355C7D'
+    color: '#090a0b'
     text_color_light: true
 ---
