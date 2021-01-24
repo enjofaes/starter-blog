@@ -6,7 +6,7 @@ title: Enjo Faes
 superuser: true
 
 # Role/position
-role: Dream job: Junior in financial risk management at a fortune 500 company. 
+role: Dream job = Junior in financial risk management at a fortune 500 company. 
 
 # Organizations/Affiliations
 organizations:
