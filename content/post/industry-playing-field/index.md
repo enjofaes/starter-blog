@@ -1,7 +1,7 @@
 ---
-title: 'The skills companies are looking for :rocket:'
+title: 'The skills companies are looking for'
 subtitle: 'The skills companies are looking for :rocket:'
-summary: Keep learning every day, you can do it. Even for free. 
+summary: Keep learning every day, you can do it. Even for free.
 authors:
 - admin
 tags:
