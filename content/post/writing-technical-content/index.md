@@ -1,10 +1,17 @@
 ---
 title: Writing technical content in Academic
+subtitle: 'Writing technical content in Academic'
+summary: Just some tips on how to include code, formula's
+authors:
+- admin
+tags:
+- Academic
+categories:
+- Demo
 date: 2021-22-01
 math: true
 diagram: true
-categories:
-- Demo
+
 image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
