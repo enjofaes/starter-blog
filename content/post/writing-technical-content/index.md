@@ -1,6 +1,6 @@
 ---
 title: Writing technical content in Academic
-date: 2019-07-12
+date: 2021-22-01
 math: true
 diagram: true
 image:
@@ -33,12 +33,6 @@ import pandas as pd
 data = pd.read_csv("data.csv")
 data.head()
 ```
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
 
 ### Math
 
